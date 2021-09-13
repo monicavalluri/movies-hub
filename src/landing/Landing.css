@@ -1,0 +1,36 @@
+.App-landing {
+    margin-top: 30px;
+    padding-top: 10px;
+}
+
+.Landing-form {
+    text-align: center;
+}
+
+.Landing-input {
+    background: white;
+    border: 1px solid #ccc;
+    font-size: 12px;
+    padding: 5px;
+    border-radius: 2px;
+    margin-right: 5px;
+}
+
+.Landing-search {
+    padding: 5px;
+    font-size: 12px;
+    text-transform: uppercase;
+    background: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+.Landing-results-container {
+    background: #fefbfb;
+}
+
+.Landing-results {
+    display: flex;
+    flex-flow: row wrap;
+}

@@ -1,0 +1,45 @@
+.Card {
+    background: white;
+    position: relative;
+    padding: 5px;
+    border: 1px solid #ccc;
+    margin: 5px auto;
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    height: 110px;
+    font-size: 10px;
+}
+
+.Card-metadata h4 {
+    margin: 0;
+    font-weight: normal;
+    margin-bottom: 8px;
+}
+
+.Card-metadata p {
+    margin: 0;
+}
+
+.Card-image{
+    height: 110px;
+}
+
+.Card-actions {
+    position: absolute;
+    bottom: 5px;
+}
+
+.Card-actions p{
+    margin-bottom: 0;
+    color: #33AC2E
+}
+
+.add-to-playlist {
+    padding: 5px;
+    font-size: 8px;
+    text-transform: uppercase;
+    background: white;
+    border: 1px solid black;
+    border-radius: 2px;
+}

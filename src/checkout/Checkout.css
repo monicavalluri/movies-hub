@@ -1,0 +1,23 @@
+.Checkout-card-container {
+    display: flex;
+    flex-flow: row wrap;
+}
+.Checkout-container {
+    margin-top: 30px;
+}
+
+.Checkout-container h3 {
+    text-align: center;
+}
+
+.Checkout-footer {
+    position: fixed;
+    bottom: 0;
+    background: black;
+    color: white;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

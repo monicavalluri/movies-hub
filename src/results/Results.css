@@ -1,0 +1,13 @@
+.Results-checkout {
+    position: fixed;
+    top: 40px;
+    right: 30px;
+}
+
+.Checkout-button {
+    background: #E7F5E7;
+    border: 1px solid #33AC2E;
+    border-radius: 2px;
+    padding: 6px;
+    font-size: 10px
+}
