@@ -2,14 +2,14 @@
     position: fixed;
     bottom: 0;
     width: 100%;
-
 }
 
 .Checkout-button {
     background: #E7F5E7;
     border: 1px solid #33AC2E;
     border-radius: 2px;
-    padding: 6px;
-    font-size: 10px;
+    padding: 0.5rem;
+    font-size: 1.5rem;
     width: 100%;
+    cursor: pointer;
 }
