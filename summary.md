@@ -20,3 +20,4 @@
 
    - Implement pagination as some search queries has more results and at present there is no way for the user to see other results. The api takes `page` parameter for page number
    - Use media queries instead of relying on just flex box for responsiveness 
+   - Better validations and error handling
