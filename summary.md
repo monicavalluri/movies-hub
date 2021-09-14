@@ -13,6 +13,7 @@
    
    - I did not have time to add routing. 
    - Deciding on the best approach to do styling took some time for me. As mentioned earlier I had experimented with styled components and finally ended up with plain css.
+   - Could not add tests
    
 
 4. *How could the application be improved?*
