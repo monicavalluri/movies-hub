@@ -4,7 +4,7 @@ import '../results/Card.css';
 
 export default function Checkout({playlist}) {
     return <div className='Checkout-container'>
-        <h3>Playlist</h3>
+        <h3>Movies in playlist</h3>
         <div className='Checkout-card-container'>
             {
                 playlist.map(movie => 
